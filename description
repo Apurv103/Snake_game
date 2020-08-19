@@ -1,0 +1,5 @@
+# snake game
+this code is generated in order to make small project run and to learn the use of loops and class .
+the specific this coding is done in the C++ which the basic language of computer languages .
+here some are basic and important things of the program like multiple classes for area of the screen , snake , fruit , and the logic for the snake's size + 1 .
+it called gameover when the snake's head touches to the  any part of tail.
